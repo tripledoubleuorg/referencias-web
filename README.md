@@ -14,6 +14,6 @@ Nome | Descrição | Preço | Tags
 [Google Fonts](https://fonts.google.com/) | Repositório de fontes | Gratuito | #tipografia
 
 ### Extensões VSCODE
-Nome | Descrição | Preço
---- | ---  | --- 
+Nome | Descrição | Preço | Tags
+--- | ---  | --- | ---
 [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) | Servidor local com live reload  | Gratuito | #servidor
