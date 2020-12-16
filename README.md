@@ -11,6 +11,8 @@
 ### Aplicações Online
 Nome | Descrição | Preço | Tags
 --- | ---  | --- | --- 
+[flaticon](https://www.flaticon.com/) | Repositório de icons| Gratuito / Pago | #icons
+[Font Awesome](https://fontawesome.com/) | Repositório de icons| Gratuito / Pago | #icons
 [Google Fonts](https://fonts.google.com/) | Repositório de fontes | Gratuito | #tipografia
 
 ### Extensões VSCODE
