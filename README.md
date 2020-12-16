@@ -30,3 +30,12 @@ Nome | Designer
 [Google Fonts](https://fonts.google.com/) | Vários 
 [Use & Modify](https://usemodify.com/) | Vários
 [Violet Sans](https://github.com/violetoffice/violet_sans) | [Violet Office](https://violetoffice.com/)
+
+### Repositório de Sites
+Nome | Autor
+--- | --- 
+[Brutalist Websites](https://brutalistwebsites.com/) |
+[Hoverstat.es](https://www.hoverstat.es/) | [Official Business](https://www.official.business/)
+[Site in Use - Cargo](https://cargo.site/Selections) | [Cargo](https://cargo.site/)
+
+
