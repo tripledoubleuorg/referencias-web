@@ -5,6 +5,7 @@
 - Aplicações Online
 - Extensões Chrome
 - Extensões VSCODE
+- Fontes Gratuitas
 - Repositórios de sites
 - Repositórios no GitHub
 
@@ -13,7 +14,6 @@ Nome | Descrição | Preço | Tags
 --- | ---  | --- | --- 
 [flaticon](https://www.flaticon.com/) | Repositório de icons| Gratuito / Pago | #icons
 [Font Awesome](https://fontawesome.com/) | Repositório de icons| Gratuito / Pago | #icons
-[Google Fonts](https://fonts.google.com/) | Repositório de fontes | Gratuito | #tipografia
 [GTmetrix](https://gtmetrix.com/) | Teste de performance | Gratuito | #performance
 [PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/?hl=pt-PT) | Teste de performance | Gratuito | #performance
 
@@ -22,3 +22,11 @@ Nome | Descrição | Preço | Tags
 Nome | Descrição | Preço | Tags
 --- | ---  | --- | ---
 [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) | Servidor local com live reload  | Gratuito | #servidor
+
+
+### Fontes Gratuitas
+Nome | Designer 
+--- | --- 
+[Google Fonts](https://fonts.google.com/) | Vários 
+[Use & Modify](https://usemodify.com/) | Vários
+[Violet Sans](https://github.com/violetoffice/violet_sans) | [Violet Office](https://violetoffice.com/)
