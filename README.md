@@ -34,12 +34,15 @@ Nome | Descrição | Preço | Tags
 [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) | Servidor local com live reload  | Gratuito | #servidor
 
 
-### Fontes Gratuitas
-Nome | Designer 
+### Tipografia
+Nome | Designer | Decrição
 --- | --- 
-[Google Fonts](https://fonts.google.com/) | Vários 
-[Use & Modify](https://usemodify.com/) | Vários
+[Google Fonts](https://fonts.google.com/) | Google | Repositório de fontes gratuitas
+[Open Foundry](https://open-foundry.com/) | | Repositório de fontes open-source
+[Type Foundry Directory](https://typefoundry.directory/))| [Matthew Smith](https://matthewsmith.website/) | Index de fontes com curadoria de Matthew Smith
+[Use & Modify](https://usemodify.com/) | [Raphael Bastide](https://raphaelbastide.com/)
 [Violet Sans](https://github.com/violetoffice/violet_sans) | [Violet Office](https://violetoffice.com/)
+
 
 ### Repositório de Sites
 Nome | Autor
