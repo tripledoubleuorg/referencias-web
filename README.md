@@ -40,8 +40,8 @@ Nome | Designer | Descrição
 [Google Fonts](https://fonts.google.com/) | Google | Repositório de fontes gratuitas
 [Open Foundry](https://open-foundry.com/) | | Repositório de fontes open-source
 [Type Foundry Directory](https://typefoundry.directory/))| [Matthew Smith](https://matthewsmith.website/) | Index de fontes com curadoria de Matthew Smith
-[Use & Modify](https://usemodify.com/) | [Raphael Bastide](https://raphaelbastide.com/)
-[Violet Sans](https://github.com/violetoffice/violet_sans) | [Violet Office](https://violetoffice.com/)
+[Use & Modify](https://usemodify.com/) | [Raphael Bastide](https://raphaelbastide.com/) | Repositório de fontes open-source
+[Violet Sans](https://github.com/violetoffice/violet_sans) | [Violet Office](https://violetoffice.com/) | Fonte gratuita
 
 
 ### Repositório de Sites
