@@ -8,7 +8,7 @@
 - Fontes Gratuitas
 - Repositórios de sites
 - Repositórios no GitHub
-– Recursos
+- Recursos
 
 ### Aplicações Online
 Nome | Descrição | Preço | Tags
