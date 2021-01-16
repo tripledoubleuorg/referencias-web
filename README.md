@@ -17,7 +17,7 @@ Nome | Descrição | Preço | Tags
 [Font Awesome](https://fontawesome.com/) | Repositório de icons| Gratuito / Pago | #icons
 [GTmetrix](https://gtmetrix.com/) | Teste de performance | Gratuito | #performance
 [PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/?hl=pt-PT) | Teste de performance | Gratuito | #performance
-[]
+
 
 ### Extensões Chrome
 Nome | Descrição | Tags
@@ -44,9 +44,21 @@ Nome | Designer
 ### Repositório de Sites
 Nome | Autor
 --- | --- 
+[Admire the Web](https://www.admiretheweb.com/)
+[Awwwards](https://www.awwwards.com/) |
+[Best Website Gallery](https://bestwebsite.gallery/) |
 [Brutalist Websites](https://brutalistwebsites.com/) |
+[CSS Design Awards](https://cssdesignawards.com/) |
+[CSS Nectar](https://cssnectar.com/) |
+[Greensock Showcase](https://greensock.com/showcase/) | [Greensock](https://greensock.com/) 
+[Hallointer](http://www.hallointer.net/) | [David Liebermann](http://davidliebermann.de/)
 [Hoverstat.es](https://www.hoverstat.es/) | [Official Business](https://www.official.business/)
+[httpster](https://httpster.net/) |
+[One Page Love](https://onepagelove.com/) |
 [Site in Use - Cargo](https://cargo.site/Selections) | [Cargo](https://cargo.site/)
+[Site Inspire](https://www.siteinspire.com/) | [Dominic Whittle](https://twitter.com/dominicwhittle/)
+[Type Wolf](https://www.typewolf.com/) | [Jeremiah Shoaf](https://www.jeremiahshoaf.com/)
+[Webflow Showcase](https://webflow.com/discover/popular#recent) | [Webflow](https://webflow.com/)
 
 ### Recursos
 Nome | Descrição | Tags
