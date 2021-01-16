@@ -35,8 +35,8 @@ Nome | Descrição | Preço | Tags
 
 
 ### Tipografia
-Nome | Designer | Decrição
---- | --- 
+Nome | Designer | Descrição
+--- | --- | --- 
 [Google Fonts](https://fonts.google.com/) | Google | Repositório de fontes gratuitas
 [Open Foundry](https://open-foundry.com/) | | Repositório de fontes open-source
 [Type Foundry Directory](https://typefoundry.directory/))| [Matthew Smith](https://matthewsmith.website/) | Index de fontes com curadoria de Matthew Smith
