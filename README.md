@@ -8,6 +8,7 @@
 - Fontes Gratuitas
 - Repositórios de sites
 - Repositórios no GitHub
+–
 
 ### Aplicações Online
 Nome | Descrição | Preço | Tags
@@ -16,6 +17,7 @@ Nome | Descrição | Preço | Tags
 [Font Awesome](https://fontawesome.com/) | Repositório de icons| Gratuito / Pago | #icons
 [GTmetrix](https://gtmetrix.com/) | Teste de performance | Gratuito | #performance
 [PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/?hl=pt-PT) | Teste de performance | Gratuito | #performance
+[]
 
 ### Extensões Chrome
 Nome | Descrição | Tags
@@ -46,5 +48,8 @@ Nome | Autor
 [Hoverstat.es](https://www.hoverstat.es/) | [Official Business](https://www.official.business/)
 [Site in Use - Cargo](https://cargo.site/Selections) | [Cargo](https://cargo.site/)
 
-
-
+### Recursos
+Nome | Descrição | Tags
+---  | --- | --- 
+[fireship](https://fireship.io/)| Recursos para developers | #recursos #cursos 
+[web.dev](https://web.dev/)| Recursos para experiência do utilizador | #recursos #ux 
