@@ -9,6 +9,7 @@
 - Repositórios de sites
 - Repositórios no GitHub
 - Recursos
+- Tutorais
 
 ### Aplicações Online
 Nome | Descrição | Preço | Tags
@@ -68,3 +69,11 @@ Nome | Descrição | Tags
 ---  | --- | --- 
 [fireship](https://fireship.io/)| Recursos para developers | #recursos #cursos 
 [web.dev](https://web.dev/)| Recursos para experiência do utilizador | #recursos #ux 
+
+
+### Tutoriais
+Nome | Autor | Descrição | Preço | Tags
+---  | --- | --- | --- 
+[Figma Crash Course](https://www.figmacrashcourse.com/)| | | Gratuito | #ui #figma
+[Web Fonts Guide](https://www.grillitype.com/blog/guides/using-grilli-type-web-fonts-guide)| Grilli Type | | Gratuito | #typography
+
