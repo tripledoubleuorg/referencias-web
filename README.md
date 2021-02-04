@@ -77,3 +77,6 @@ Nome | Autor | Descrição | Preço | Tags
 [Figma Crash Course](https://www.figmacrashcourse.com/)| | | Gratuito | #ui #figma
 [Web Fonts Guide](https://www.grillitype.com/blog/guides/using-grilli-type-web-fonts-guide)| Grilli Type | | Gratuito | #typography
 
+
+Nome | Autor | Descrição | Preço | Tags
+
