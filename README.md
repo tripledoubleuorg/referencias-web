@@ -74,6 +74,7 @@ Nome | Descrição | Tags
 ### Tutoriais
 Nome | Autor | Descrição | Preço | Tags
 ---  | --- | --- | --- | --- 
+[Clean Code Javascript](https://github.com/ryanmcdermott/clean-code-javascript) | Ryan McDermott | Software engineering principles, from Robert C. Martin's book Clean Code, adapted for JavaScript. | Gratuito | #javascript #cleancode
 [Figma Crash Course](https://www.figmacrashcourse.com/)| | | Gratuito | #ui #figma
 [Web Fonts Guide](https://www.grillitype.com/blog/guides/using-grilli-type-web-fonts-guide)| Grilli Type | | Gratuito | #typography
 
