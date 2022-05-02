@@ -14,8 +14,9 @@
 ### Ferramentas
 Nome | Descrição | Preço | Tags
 --- | ---  | --- | --- 
-[flaticon](https://www.flaticon.com/) | Repositório de icons| Gratuito / Pago | #icons
-[Font Awesome](https://fontawesome.com/) | Repositório de icons| Gratuito / Pago | #icons
+[Checklist Design](https://www.checklist.design) | Colecção de melhores práticas | Gratuito | #design
+[flaticon](https://www.flaticon.com/) | Repositório de icons | Gratuito / Pago | #icons
+[Font Awesome](https://fontawesome.com/) | Repositório de icons | Gratuito / Pago | #icons
 [GTmetrix](https://gtmetrix.com/) | Teste de performance | Gratuito | #performance
 [PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/?hl=pt-PT) | Teste de performance | Gratuito | #performance
 [Toools.design](https://www.toools.design/) | Repositório de ferramentas de design | Gratuito | #design
